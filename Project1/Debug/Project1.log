@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(3054,5): warning MSB3088: Could not read state file "Debug\Project1.vcxproj.GenerateResource.cache". Unable to find assembly 'Microsoft.Build.Tasks.v12.0, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> D:\FCIS Ain Shams\First Year 2018-2019\Projects 1G T2\Course Management GUIFORM\Project1\Debug\Project1.exe
